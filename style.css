@@ -1,0 +1,11 @@
+.letgradfreya1 {
+width: 300px;
+height: 30px;
+background: -webkit-linear-gradient(left, #025378, transparent);
+}
+
+.letgradfreya2 {
+width: 300px;
+height: 30px;
+background: -webkit-linear-gradient(right, #025378, transparent);
+}
